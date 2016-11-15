@@ -2,6 +2,7 @@ package edu.tsinghua.dao;
 
 public class User {
 
+	//test1
 	private int userId;//test
 	private String userName;//²»ÊÇºÜÂé·³
 	
