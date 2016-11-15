@@ -2,7 +2,7 @@ package edu.tsinghua.dao;
 
 public class User {
 
-	private int userId;
+	private int userId;//test
 	private String userName;
 	public int getUserId() {
 		return userId;
