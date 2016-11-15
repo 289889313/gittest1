@@ -3,7 +3,8 @@ package edu.tsinghua.dao;
 public class User {
 
 	private int userId;//test
-	private String userName;
+	private String userName;//²»ÊÇºÜÂé·³
+	
 	public int getUserId() {
 		return userId;
 	}
